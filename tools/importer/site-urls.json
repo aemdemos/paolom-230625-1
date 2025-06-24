@@ -1,0 +1,62 @@
+{
+  "originUrl": "https://fitflow-template.framer.website",
+  "lastCrawled": "https://fitflow-template.framer.website/",
+  "urls": [
+    {
+      "url": "https://fitflow-template.framer.website/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "110d44b9436e31df1cc75122675478ad09a4748b"
+    },
+    {
+      "url": "https://fitflow-template.framer.website/blog",
+      "source": "SITEMAPS",
+      "targetPath": "/blog",
+      "id": "80e8eeb278d2cfe1f123bb47b62f6ed4c4444cc7"
+    },
+    {
+      "url": "https://fitflow-template.framer.website/blog/crush-your-core",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/crush-your-core",
+      "id": "b8b882490d649a3b3da85c8d7ea3dc332fa74ce1"
+    },
+    {
+      "url": "https://fitflow-template.framer.website/blog/fuel-your-gains",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/fuel-your-gains",
+      "id": "3661a215a5a9f16d6f46d7d8ac00d9b451c1fe1b"
+    },
+    {
+      "url": "https://fitflow-template.framer.website/blog/leg-day-like-a-pro",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/leg-day-like-a-pro",
+      "id": "53de890be21938fe0a6bc403821ecab5445aacdd"
+    },
+    {
+      "url": "https://fitflow-template.framer.website/blog/stronger-every-day-copy",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/stronger-every-day-copy",
+      "id": "1519f115a6088e5b9432cb5121f1eefcb42243d9"
+    },
+    {
+      "url": "https://fitflow-template.framer.website/blog/train-anywhere-anytime",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/train-anywhere-anytime",
+      "id": "2a068e628043d7bb2b8dda23c2cd6a30a2999c23"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
